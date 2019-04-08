@@ -1,0 +1,1 @@
+echo "Hello Jenkins v.1"
