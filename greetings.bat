@@ -1,1 +1,1 @@
-echo "Hello Jenkins v.2"
+echo "Hello Jenkins v.3"
